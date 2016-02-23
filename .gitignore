@@ -59,7 +59,7 @@ docs/_build/
 target/
 
 #Ipython Notebook
-.ipynb_checkpoints
+.ipynb_checkpointss
 
 .idea/
 db.sqlite3
